@@ -1,8 +1,8 @@
-# sunbird-knowledge-platform-jobs
-Background and pipeline jobs of Knowledge Platform
+# LERN data-pipeline-jobs
+Background and pipeline jobs of LERN BB
 
-## Knowledge-platform-jobs local setup
-This readme file contains the instruction to set up and run the knowledge-platform-jobs in local machine.
+## LERN data-pipeline-jobs local setup
+This readme file contains the instruction to set up and run the lern-data-pipeline-jobs in local machine.
 
 ### System Requirements:
 
