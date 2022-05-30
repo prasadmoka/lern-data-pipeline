@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>org.sunbird</groupId>
-        <artifactId>lms-jobs</artifactId>
+        <artifactId>lms-data-pipeline</artifactId>
         <version>1.0</version>
     </parent>
 
