@@ -21,10 +21,10 @@
 
 	<modules>
 		<module>jobs-core</module>
-		<module>relation-cache-updater</module>
-		<module>activity-aggregate-updater</module>
-		<module>credential-generator</module>
-		<module>enrolment-reconciliation</module>
+		<module>lms-jobs/relation-cache-updater</module>
+		<module>lms-jobs/activity-aggregate-updater</module>
+		<module>lms-jobs/credential-generator</module>
+		<module>lms-jobs/enrolment-reconciliation</module>
 	</modules>
 
 	<properties>
